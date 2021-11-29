@@ -1,0 +1,15 @@
+*
+!app/
+app/styles
+!prisma
+prisma/node_modules
+!public
+!styles
+!.npmrc
+!index.js
+!package.json
+!package-lock.json
+!postcss.config.js
+!remix.config.js
+!tailwind.config.js
+!scripts/heroicon-symbols.mjs

@@ -1,0 +1,13 @@
+/coverage
+/node_modules
+.ds_store
+*.log
+.env
+.eslintcache
+
+/.cache
+/build
+/public/build
+/app/styles
+/app/icons/solid
+/app/icons/outline
